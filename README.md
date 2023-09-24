@@ -44,7 +44,7 @@ Link:
 
 
 Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+![image description](https://whitneymedia.org/assets/image/822825/large_WMAA_PROGRAMMED_06_PS_SM.jpg)
 
 
 Image on repo:  
